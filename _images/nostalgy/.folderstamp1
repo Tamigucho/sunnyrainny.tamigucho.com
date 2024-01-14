@@ -1,0 +1,52 @@
+This folder: /media/daniella/B/git/Tamigucho/&meta/Private/Products/Games/Pink-Dark/Resources/Graphic
+
+  File: ./Designs
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4171756     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-11 14:46:50.355435100 -0300
+Modify: 2023-07-15 21:45:06.853985300 -0300
+Change: 2023-07-15 21:45:06.853985300 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Img
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4172813     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-11 14:46:50.593732000 -0300
+Modify: 2023-07-15 21:45:09.817789100 -0300
+Change: 2023-07-15 21:45:09.817789100 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Packaging-2.pptx
+  Size: 16324468  	Blocks: 31888      IO Block: 4096   regular file
+Device: 8,20	Inode: 975912      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-13 22:43:28.869857400 -0300
+Modify: 2023-08-13 22:22:29.807227300 -0300
+Change: 2023-08-13 22:43:57.866038600 -0300
+ Birth: -
+IPFS hash: QmRvGZXgebUqwhAVW4kT8PztAbahgygU4fpfGKQh6zyVDq
+------------------------------
+  File: ./Packaging-3.pptx
+  Size: 16403304  	Blocks: 32040      IO Block: 4096   regular file
+Device: 8,20	Inode: 2289964     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-13 22:43:29.220494300 -0300
+Modify: 2023-08-13 22:32:50.745954600 -0300
+Change: 2023-08-13 22:43:57.875341700 -0300
+ Birth: -
+IPFS hash: QmcGTNUhjJiYo6WxUzJVD1htea3F2jH9YrAa7NKet2kqx4
+------------------------------
+  File: ./Packaging.pptx
+  Size: 16313639  	Blocks: 31864      IO Block: 4096   regular file
+Device: 8,20	Inode: 1300245     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-13 22:43:29.773937000 -0300
+Modify: 2023-08-13 22:13:28.196389000 -0300
+Change: 2023-08-13 22:43:57.857024900 -0300
+ Birth: -
+IPFS hash: QmamUaJGSfCGhnhAua4LxqNhJy287fWdB1jdpk1AeZxz9M
+------------------------------

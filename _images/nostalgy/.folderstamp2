@@ -1,0 +1,102 @@
+This folder: /media/daniella/B/git/Tamigucho/&meta/Private/Products/Games/Pink-Dark/Resources/Graphic
+
+  File: ./Designs
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,4	Inode: 4171756     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-01-13 23:23:34.187279400 -0300
+Modify: 2024-01-13 21:04:07.550604100 -0300
+Change: 2024-01-13 21:04:07.550604100 -0300
+ Birth: 2023-07-15 21:42:07.694222600 -0300
+IPFS hash: 
+------------------------------
+  File: ./Img
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,4	Inode: 4172813     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-01-13 21:10:43.794126500 -0300
+Modify: 2023-07-15 21:45:09.817789100 -0300
+Change: 2023-07-15 21:45:09.817789100 -0300
+ Birth: 2023-07-15 21:42:08.210457500 -0300
+IPFS hash: 
+------------------------------
+  File: ./Insp.txt
+  Size: 254       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,4	Inode: 4189288     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-14 00:03:03.687725700 -0300
+Modify: 2023-08-14 00:02:37.833458700 -0300
+Change: 2023-08-14 00:02:37.866832200 -0300
+ Birth: 2023-08-14 00:02:37.832672000 -0300
+IPFS hash: QmSAoJKQMpivb1Q9t1VAKNkZHPvt1tBZdaY498ngG9KXeJ
+------------------------------
+  File: ./Packaging-2.pptx
+  Size: 16392747  	Blocks: 32024      IO Block: 4096   regular file
+Device: 8,4	Inode: 4191724     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-01-13 21:03:57.890308200 -0300
+Modify: 2023-08-23 17:48:50.209455400 -0300
+Change: 2023-08-23 17:48:51.298285200 -0300
+ Birth: 2023-08-23 17:48:19.883000000 -0300
+IPFS hash: QmYresbYayCb4HketxRzBfEPwpjRCsAHb56mz8cs3wTfqe
+------------------------------
+  File: ./Packaging-3.pptx
+  Size: 15880722  	Blocks: 31024      IO Block: 4096   regular file
+Device: 8,4	Inode: 954088      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-01-13 23:30:50.830384300 -0300
+Modify: 2024-01-13 21:25:32.270803600 -0300
+Change: 2024-01-13 21:25:32.807423800 -0300
+ Birth: 2024-01-13 21:11:23.766957900 -0300
+IPFS hash: QmZKJi8hnQn1JovriQkDyJxrWRrpkPKvjVaXYhQnzM3Dqp
+------------------------------
+  File: ./Packaging-other-try.png
+  Size: 5857281   	Blocks: 11448      IO Block: 4096   regular file
+Device: 8,4	Inode: 954044      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-01-13 21:16:50.798680900 -0300
+Modify: 2024-01-13 21:14:57.053937400 -0300
+Change: 2024-01-13 21:15:01.268700200 -0300
+ Birth: 2024-01-13 21:14:55.131613600 -0300
+IPFS hash: QmbYuwoAJoUacZVVWVj7Kf3kLHjjjsSracML177NsU1BT4
+------------------------------
+  File: ./Packaging.png
+  Size: 3520325   	Blocks: 6880       IO Block: 4096   regular file
+Device: 8,4	Inode: 943035      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-01-13 21:16:50.877761100 -0300
+Modify: 2024-01-13 21:13:22.184923800 -0300
+Change: 2024-01-13 21:13:28.158788700 -0300
+ Birth: 2024-01-13 21:13:20.977986700 -0300
+IPFS hash: QmUUMj5deHERbhb9Ky1fwVpqGCWFXFHRioPDv9WXwkfRJR
+------------------------------
+  File: ./Packaging.png.txt
+  Size: 49        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,4	Inode: 954043      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-01-13 21:14:30.986229100 -0300
+Modify: 2024-01-13 21:14:29.970311100 -0300
+Change: 2024-01-13 21:14:29.970311100 -0300
+ Birth: 2024-01-13 21:13:46.106902600 -0300
+IPFS hash: Qmf17dUN7RZqi4TrfMtiMoKUKCEkUWeSvVsm2ArcCWudMJ
+------------------------------
+  File: ./Packaging.pptx
+  Size: 16403304  	Blocks: 32040      IO Block: 4096   regular file
+Device: 8,4	Inode: 2289964     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-01-13 21:03:57.882308000 -0300
+Modify: 2023-08-13 22:32:50.745954600 -0300
+Change: 2023-08-13 22:50:12.496486100 -0300
+ Birth: 2023-08-13 22:22:51.947883800 -0300
+IPFS hash: QmcGTNUhjJiYo6WxUzJVD1htea3F2jH9YrAa7NKet2kqx4
+------------------------------
+  File: ./Packaging.pptx_FILES
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,4	Inode: 4189128     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-01-13 21:10:43.903706000 -0300
+Modify: 2023-08-13 22:50:43.217123500 -0300
+Change: 2023-08-13 22:50:43.217123500 -0300
+ Birth: 2023-08-13 22:47:46.562437700 -0300
+IPFS hash: 
+------------------------------
